@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background-color: #f3f4f6; /* Světle šedá */
+  color: #1f2937; /* Tmavý text */
+  font-family: sans-serif;
+}
