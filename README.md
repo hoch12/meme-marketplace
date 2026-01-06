@@ -24,7 +24,7 @@ A fully functional React application for browsing and "buying" memes. This proje
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/hoch12/meme-marketplace.git](https://github.com/hoch12/meme-marketplace.git)
-    cd meme-web-marketplace
+    cd meme_web_marketplace
     ```
 
 2.  **Install dependencies:**
